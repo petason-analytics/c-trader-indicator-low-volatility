@@ -27,4 +27,4 @@ Using Bollinger Band Squeeze to detect a period of loew volatility
   - Như vậy cần tìm các khoảng thắt này cần định nghĩa:
     - **Khoảng cách tối thiếu của BOLU và BOLD với đường SMA để coi là khoảng thắt**
     - **Số nến tối thiếu để coi là 1 khoảng thắt.**
-    - **Có cần sửa range 20 không ?  Cần backtest với các indicator để rõ hơn.**
+    - **Có cần sửa range 20 không ?  Cần backtest với các cặp tiền tệ để rõ hơn.**
